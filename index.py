@@ -160,7 +160,7 @@ class Display:
 
 class PageGenerator:
     # Settings
-    PageCount = 1
+    PageCount = 5
     BoxSize = 200
     SpacingSize = 50
     BoxesWidth = 6
@@ -169,10 +169,10 @@ class PageGenerator:
     IconChance = 0.5
     NumberChance = 0.25
     LetterChance = 0.25
-    RedBoxChance = 0.05
-    GreenBoxChance = 0.05
-    RedTextChance = 0.05
-    GreenTextChance = 0.05
+    RedBoxChance = 0.02
+    GreenBoxChance = 0.02
+    RedTextChance = 0.02
+    GreenTextChance = 0.02
     MaxIconRepeats = 1
     MaxNumberRepeats = 1
     MaxLetterRepeats = 2
