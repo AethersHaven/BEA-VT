@@ -2,7 +2,7 @@
 
 ## Setup
 1. Download [Python](https://www.python.org/downloads/) if not installed (when installing make sure to install to path and disable path length limit)
-2. Download [ZIP](https://github.com/AethersHaven/BEA-VT/archive/refs/heads/main.zip) and extract contents into folder (name and location doesn't matter)
+2. Download [ZIP](https://github.com/AethersHaven/BEA-VT/archive/refs/heads/hart-chart-generator.zip) and extract contents into folder (name and location doesn't matter)
 3. Navigate into folder through cmd and enter the commands `pip install tk` and `pip install Pillow`
 
 ## Usage
