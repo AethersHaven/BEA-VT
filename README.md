@@ -1,4 +1,4 @@
-# Blacksburg Eye Associates Vision Therapy Chart Generator
+# Blacksburg Eye Associates Vision Therapy Hart Chart Generator
 
 ## Setup
 1. Download [Python](https://www.python.org/downloads/) if not installed (when installing make sure to install to path and disable path length limit)
